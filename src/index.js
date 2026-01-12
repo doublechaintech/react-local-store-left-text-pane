@@ -108,7 +108,7 @@ const calcComponent=({text,setText,mode,setMode,fileList, setFileList,setFileNam
           fontFamily: '"Fira code", "Fira Mono", monospace',
           fontSize: 10,
           height:"90vh",
-          width:"98%"
+          width:"95%"
         }}
       />)
 }
